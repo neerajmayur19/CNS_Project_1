@@ -24,5 +24,5 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 - Or the Site deployed using Python anywhere . The URL: NeerajMayur.pythonanywhere.com
 - If the URL is shown as not secure, use Google or Edge.
 
-  ##URL
-  neerajmayur.pythonanywhere.com
+  ## URL<br>
+  <a href = neerajmayur.pythonanywhere.com>
